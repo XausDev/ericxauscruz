@@ -1,0 +1,48 @@
+{
+    "nav": {
+        "menu_1":"Home",
+        "menu_2":"About",
+        "menu_3":"Works",
+        "menu_4":"Contact"
+    },
+
+    "header": {
+        "caption_1":"Hello",
+        "caption_2":"I Am",
+        "caption_3":"Developer"
+    },
+
+    "hero": {
+        "content_1":"About Me.",
+        "content_2":"Mobile & Web Developer",
+        "content_3":"I am <b>Eric Xaus Cruz,</b> I develop mobile applications using languages and frameworks such as Flutter, Dart, Angular, and Ionic. I also design custom web pages with HTML, CSS, and JavaScript. Additionally, I have knowledge in WordPress and Elementor, as well as interface design with Figma. I am a highly motivated programmer passionate about creating creative and engaging digital experiences for the user.",
+
+        "skills_1":"Web Develop",
+        "skills_2":"Movile Develop",
+        "skills_3":"UI/UX Design",
+
+        "button_1":"Download C.V.",
+        "button_2":"Contact Me"
+    },
+    "portfolio": {
+        "filter_1":"All",
+        "filter_2":"Web",
+        "filter_3":"Mobile"
+
+    },
+
+    "contact": {
+        "heading":"Contact Me.",
+        "info_1":"Address",
+        "info_2":"Email",
+        "info_3":"Phone",
+
+        "form_1":"Name",
+        "form_2":"Email",
+        "form_3":"Message",
+
+        "button":"Submit"
+    }
+
+
+}
