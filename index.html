@@ -46,6 +46,8 @@
 		<!--[endif]-->
 
 		<!-- recaptcha -->
+		<script src="https://www.google.com/recaptcha/api.js"></script>
+		<script src="js/recaptcha.js"></script>
 
     </head>
     
@@ -382,9 +384,10 @@
 		                                    <textarea id="form_message" name="message" placeholder="Mensaje" rows="4" required="required" data-section="contact" data-value="form_3"></textarea>
 		                                </div>
 
-										<input data-section="contact" data-value="button" 
-										type="submit" value="Enviar" class="buton buton-bg">
-
+		                                <input data-sitekey="6LdULAkqAAAAALESI34iPDil-tS1BAHsMcrelRN-" 
+										data-callback='onSubmit' data-action="submit" data-section="contact" data-value="button" 
+										type="submit" value="Enviar" class="buton buton-bg g-recaptcha">
+										
 		                            </div>
 		                        </div>
 		                    </div>
