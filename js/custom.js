@@ -1,7 +1,7 @@
 
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Daniels
+    Theme Name: ericxauscruz
     Theme URI: http://
     Description: Portfolio Onepage Template
     Author: creativotheme
